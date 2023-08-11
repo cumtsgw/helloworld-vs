@@ -9,7 +9,7 @@ int main()
 {
     std::cout << "Hello World!\n";
     std::cout << "i want to say that i will learn c++ language and i will use c++ language to program";
-    cout << "输出中文";
+    cout << "输出中文" << "what is it?";
 }
 
 // 运行程序: Ctrl + F5 或调试 >“开始执行(不调试)”菜单
